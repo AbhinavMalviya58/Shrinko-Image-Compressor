@@ -1,0 +1,52 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+
+# Files for the ART/Dalvik VM
+*.class
+
+# Java / JVM
+*.log
+
+# Keystores & Signing Keys (CRITICAL SECURITY)
+*.jks
+*.keystore
+*.key
+*.p12
+*.pem
+shrinkoKey.jks
+
+# Android Studio & IntelliJ IDEA
+*.iml
+.idea/
+.gradle/
+.kotlin/
+local.properties
+/local.properties
+
+# Build directories
+build/
+*/build/
+release/
+*/release/
+
+# External native build
+.externalNativeBuild/
+.cxx/
+cmake/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Secrets & Private Configurations
+secrets.properties
+google-services.json
+
+# Scratch / Marketing Mockups / Personal Docs
+shrinko_img/
+*.pdf
+*.zip
+*.mp4

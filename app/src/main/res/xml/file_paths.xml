@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Compressed output files live here -->
+    <cache-path name="compressed_images" path="compressed_images/" />
+    <!-- Legacy shared_images folder -->
+    <cache-path name="shared_images" path="shared_images/" />
+    <!-- External app-specific Pictures folder -->
+    <external-files-path name="external_images" path="Pictures/" />
+</paths>
